@@ -1,0 +1,5 @@
+win10toast
+cv2
+numpy
+mediapipe
+tensorflow
